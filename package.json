@@ -1,10 +1,11 @@
 {
   "name": "lucca",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Express-like router for Koa (v1)",
   "main": "index.js",
   "scripts": {
-    "test": "mocha -R spec"
+    "test": "mocha -R spec",
+    "gen-docs": "jsdoc index.js lib/"
   },
   "author": "sepsten",
   "license": "MIT",

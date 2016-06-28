@@ -1,5 +1,5 @@
 /**
- * @file Index
+ * @file Index file
  * @author sepsten
  */
 

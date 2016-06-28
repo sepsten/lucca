@@ -1,8 +1,8 @@
 # Lucca
 
-Lucca is a lightweight Express-style router for Koa (v1). It is named after the character Lucca from Chrono Trigger.
+<img alt="Lucca's artwork" src="http://vignette2.wikia.nocookie.net/chrono/images/6/6a/Lucca2.png/revision/latest/scale-to-width-down/180" style="float: right;"/>
 
-![Lucca's artwork](http://vignette2.wikia.nocookie.net/chrono/images/6/6a/Lucca2.png/revision/latest/scale-to-width-down/200)
+Lucca is a lightweight Express-style router for Koa (v1). It is named after the character Lucca from Chrono Trigger. Quickly coded for `gasch` as I had problems with both `koa-router` and `impress-router`…
 
 # Use
 

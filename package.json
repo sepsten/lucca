@@ -1,6 +1,6 @@
 {
   "name": "lucca",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Express-like router for Koa (v1)",
   "main": "index.js",
   "scripts": {
